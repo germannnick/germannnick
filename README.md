@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-``` sup
-```
+`Research and Developer of Arms Technology, Developing Electronics for integrated Uses`
 
 <!--
 **germannnick/germannnick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
