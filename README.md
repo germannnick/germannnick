@@ -1,6 +1,6 @@
-## Nick Germann... I see your looking at my profile, would you like some HelP!
+## 🚀Nick Germann's Profile... I see your looking at my profile, would you like some HelP!🚀
 ![ClipWindowsGIF](https://github.com/user-attachments/assets/2da60210-1ba5-4aee-a3ac-c958109f4eea)
-Nick Germann... I see your looking at my profile, would you like some HelP!
+
 
 
 `Research and Developer of Arms Technology, Developing Electronics for integrated Uses`
