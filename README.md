@@ -16,4 +16,4 @@
    </p>
    <p>Icons are not mine or accurate on purpose :)</p>
 
-<p> I have been wearing too many hats for too long. I am focusing on small arms and digital development recently.  Check out my more detailed page <a href:"https://github.com/barrycumbie">Germannnick's Dev Profile</a> </p>
+<p> I have been wearing too many hats for too long. I am focusing on small arms and digital development recently.  Check out my more detailed page <a href="https://github.com/germannnick?tab=repositories&sort=stargazers">Germannnick's Dev Profile</a> </p>
