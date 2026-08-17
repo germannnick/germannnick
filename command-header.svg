@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Nick Germann Systems Lab</title>
+  <desc id="desc">A futuristic graphite and military green engineering interface with cyan and gold accents.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101512"/>
+      <stop offset="0.52" stop-color="#1c241f"/>
+      <stop offset="1" stop-color="#0a0d0c"/>
+    </linearGradient>
+    <linearGradient id="olive" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3f4939"/>
+      <stop offset="1" stop-color="#667159"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#93a391" stroke-opacity=".065" stroke-width="1"/>
+    </pattern>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <path d="M0 3.5H4" stroke="#d9e2dc" stroke-opacity=".025"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="330" rx="8" fill="url(#panel)"/>
+  <rect width="1200" height="330" rx="8" fill="url(#grid)"/>
+  <rect width="1200" height="330" rx="8" fill="url(#scan)"/>
+  <path d="M0 0h416l-30 18H0z" fill="url(#olive)"/>
+  <path d="M1200 330H784l30-18h386z" fill="#363f35"/>
+  <path d="M30 45H70M30 45v42M1170 285h-40M1170 285v-42" fill="none" stroke="#83d8dc" stroke-width="2"/>
+
+  <g transform="translate(70 64)">
+    <text x="0" y="0" fill="#d9b65d" font-family="monospace" font-size="13" letter-spacing="3">SYSTEMS / FABRICATION / INTELLIGENCE</text>
+    <text x="0" y="71" fill="#f2f5f1" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" letter-spacing="2">NICK GERMANN</text>
+    <rect x="0" y="91" width="705" height="3" fill="#83d8dc" filter="url(#glow)"/>
+    <text x="0" y="135" fill="#aeb9af" font-family="monospace" font-size="19" letter-spacing="4">SYSTEMS LAB // PUBLIC BUILD ARCHIVE</text>
+  </g>
+
+  <g transform="translate(922 54)" fill="none">
+    <circle cx="92" cy="92" r="80" stroke="#677466" stroke-width="1"/>
+    <circle cx="92" cy="92" r="58" stroke="#83d8dc" stroke-width="2" stroke-dasharray="6 8" filter="url(#glow)"/>
+    <circle cx="92" cy="92" r="7" fill="#d9b65d" stroke="#d9b65d"/>
+    <path d="M92 0v42M92 142v42M0 92h42M142 92h42" stroke="#839184"/>
+    <path d="M57 92h70M92 57v70" stroke="#83d8dc" stroke-opacity=".65"/>
+    <path d="M43 43l15 15M126 126l15 15M141 43l-15 15M58 126l-15 15" stroke="#d9b65d" stroke-opacity=".7"/>
+  </g>
+
+  <g transform="translate(70 273)" font-family="monospace" font-size="12" letter-spacing="2">
+    <rect x="0" y="0" width="10" height="10" fill="#83d8dc"/>
+    <text x="21" y="10" fill="#aeb9af">BUILD</text>
+    <rect x="105" y="0" width="10" height="10" fill="#d9b65d"/>
+    <text x="126" y="10" fill="#aeb9af">TEST</text>
+    <rect x="211" y="0" width="10" height="10" fill="#65705b"/>
+    <text x="232" y="10" fill="#aeb9af">DOCUMENT</text>
+  </g>
+  <text x="1132" y="303" text-anchor="end" fill="#718076" font-family="monospace" font-size="11" letter-spacing="2">NG // 01</text>
+</svg>
