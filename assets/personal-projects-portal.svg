@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="title desc">
+  <title id="title">Open Nick Germann's personal projects archive</title>
+  <desc id="desc">A futuristic linked panel for the germannnickPersonal GitHub account.</desc>
+  <defs>
+    <linearGradient id="body" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#161d19"/>
+      <stop offset="1" stop-color="#0d110f"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0v24" fill="none" stroke="#91a092" stroke-opacity=".055"/>
+    </pattern>
+  </defs>
+  <path d="M8 0h1158l34 34v168l-8 8H34L0 176V8z" fill="url(#body)" stroke="#4b5a4f"/>
+  <path d="M8 0h410l-22 14H8zM1200 210H790l22-14h380z" fill="#596653"/>
+  <path d="M0 48h5v92H0M1200 70h-5v92h5" fill="#83d8dc"/>
+  <rect x="18" y="18" width="1164" height="174" fill="url(#grid)"/>
+
+  <g transform="translate(62 46)">
+    <text x="0" y="0" fill="#d9b65d" font-family="monospace" font-size="12" letter-spacing="4">EXTERNAL ARCHIVE // VERIFIED LINK</text>
+    <text x="0" y="51" fill="#f1f4f1" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" letter-spacing="1">PERSONAL PROJECTS</text>
+    <text x="0" y="84" fill="#aeb9af" font-family="monospace" font-size="15" letter-spacing="2">github.com/germannnickpersonal</text>
+    <rect x="0" y="107" width="560" height="2" fill="#83d8dc"/>
+  </g>
+
+  <g transform="translate(905 48)">
+    <path d="M0 0h190l35 35v78l-35 35H0l-35-35V35z" fill="#1a221d" stroke="#5d6b60"/>
+    <path d="M20 74h126M124 51l23 23-23 23" fill="none" stroke="#83d8dc" stroke-width="4"/>
+    <circle cx="-8" cy="74" r="5" fill="#d9b65d"/>
+    <text x="72" y="128" text-anchor="middle" fill="#87968b" font-family="monospace" font-size="10" letter-spacing="3">OPEN ARCHIVE</text>
+  </g>
+</svg>
