@@ -23,8 +23,10 @@ This profile is the public archive for projects ranging from prop electronics an
 ```text
 STATUS       ACTIVE
 FOCUS        INTEGRATED SYSTEMS + APPLIED INTELLIGENCE
-OPERATING    NORTH ALABAMA
+OPERATING    FLORENCE, ALABAMA
 ```
+
+<img src="./assets/system-rail.svg" width="100%" alt="System link divider" />
 
 ### `02 // ACTIVE BUILDS`
 
@@ -49,6 +51,8 @@ OPERATING    NORTH ALABAMA
   </tr>
 </table>
 
+<img src="./assets/system-rail.svg" width="100%" alt="System link divider" />
+
 ### `03 // CAPABILITY MAP`
 
 | SYSTEMS | INTELLIGENCE | EXECUTION |
@@ -57,6 +61,8 @@ OPERATING    NORTH ALABAMA
 | Implementation support | Model experimentation | Data cleanup + validation |
 | Mesh network routing support | Pretrained model integration | Operational workflow analysis |
 | Inventory + asset tracking | Small-scale AI training | Practical field deployment |
+
+<img src="./assets/system-rail.svg" width="100%" alt="System link divider" />
 
 ### `04 // TOOLCHAIN`
 
@@ -68,7 +74,25 @@ OPERATING    NORTH ALABAMA
   <img alt="TensorFlow" src="https://img.shields.io/badge/TENSORFLOW-181d1a?style=for-the-badge&logo=tensorflow&logoColor=83d8dc" />
 </p>
 
-### `05 // BUILD STANDARD`
+<img src="./assets/system-rail.svg" width="100%" alt="System link divider" />
+
+### `05 // PERSONAL PROJECTS`
+
+Personal builds and exploratory work are maintained in a separate public archive.
+
+<div align="center">
+  <a href="https://github.com/germannnickpersonal">
+    <img src="./assets/personal-projects-portal.svg" width="100%" alt="Open the germannnickPersonal GitHub project archive" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/germannnickpersonal"><strong>OPEN @germannnickPersonal</strong></a>
+</div>
+
+<img src="./assets/system-rail.svg" width="100%" alt="System link divider" />
+
+### `06 // BUILD STANDARD`
 
 ```text
 [01] Solve the real problem.
